@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6cf0206b-6cb1-49e4-a7d4-e1d03cbcfafb" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XKxFhO3MBSSdfqNTPvTt976FCB" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/JAVA automn/2D_Bubble_Shoot" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Menue">
+    <configuration name="GameXonix" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GameXonix" />
+      <module name="Xonix" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Menue" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Menue" />
+      <module name="Xonix" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GameXonix" />
+      <item itemvalue="Application.Menue" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6cf0206b-6cb1-49e4-a7d4-e1d03cbcfafb" name="Default Changelist" comment="" />
+      <created>1580808485762</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580808485762</updated>
+      <workItem from="1580808490594" duration="25713000" />
+      <workItem from="1585505796582" duration="1541000" />
+      <workItem from="1585507623600" duration="1786000" />
+      <workItem from="1585509603327" duration="1788000" />
+      <workItem from="1585511625552" duration="1752000" />
+      <workItem from="1585513450081" duration="1789000" />
+      <workItem from="1585515363117" duration="1788000" />
+      <workItem from="1585517223421" duration="1787000" />
+      <workItem from="1585519085250" duration="1785000" />
+      <workItem from="1585521085421" duration="1968000" />
+      <workItem from="1585563943893" duration="1791000" />
+      <workItem from="1585565770680" duration="1788000" />
+      <workItem from="1585567609580" duration="1786000" />
+      <workItem from="1585569461296" duration="1785000" />
+      <workItem from="1585571297176" duration="1776000" />
+      <workItem from="1585573130185" duration="1835000" />
+      <workItem from="1585575209778" duration="1786000" />
+      <workItem from="1585577330089" duration="1802000" />
+      <workItem from="1585579811202" duration="1189000" />
+      <workItem from="1585581644361" duration="1520000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

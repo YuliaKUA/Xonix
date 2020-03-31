@@ -1,8 +1,10 @@
 import java.awt.*;
 
 public class Ball {
+    //fields
     private int x, y, dx, dy;
 
+    //constructor
     Ball() {
         do {
             x = GameXonix.random.nextInt(Window.FIELD_WIDTH);
@@ -11,7 +13,8 @@ public class Ball {
         dx = GameXonix.random.nextBoolean()? 1 : -1;
         dy = GameXonix.random.nextBoolean()? 1 : -1;
     }
-
+    
+    //methods
     void updateDXandDY() {
         if (GameXonix.field.getColor(x + dx, y) == GameXonix.COLOR_LAND) dx = -dx;
         if (GameXonix.field.getColor(x, y + dy) == GameXonix.COLOR_LAND) dy = -dy;

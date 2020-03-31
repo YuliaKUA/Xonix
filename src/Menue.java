@@ -10,6 +10,7 @@ import java.io.File;
 import java.io.IOException;
 
 class MenueBack {
+    //fields
     static final int FIELD_WIDTH = 640;
     static final int FIELD_HEIGHT = 460;
 
@@ -45,11 +46,13 @@ class MenueBack {
     public String filenameAbout = "E:/Game_prod/Xonix/sourse/about.png";
     public static Image image, imageAbout ;
 
+    //constructor
     MenueBack() throws IOException {
         image = ImageIO.read(new File(filename));
         imageAbout = ImageIO.read(new File(filenameAbout));
     }
 
+    //methods
     void update() {
         if(mouseX > PLAY_LOCATION_WIDTH - buttonWidth/2 &&
                 mouseX < PLAY_LOCATION_WIDTH + buttonWidth/2 &&
@@ -110,6 +113,7 @@ class MenueBack {
 
 
 public class Menue extends JPanel{
+    //fields
     public static MenueBack menueBack;
 
     static {
@@ -121,8 +125,8 @@ public class Menue extends JPanel{
     }
 
     static CanvasMenu canvasBack = new CanvasMenu();
-
-
+    
+    //constructor
     Menue() throws IOException {
         new Window();
 
@@ -135,6 +139,7 @@ public class Menue extends JPanel{
 
     }
 
+    //methods
     public void start(){
         GameXonix game = new GameXonix();
 

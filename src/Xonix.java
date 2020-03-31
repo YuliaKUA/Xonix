@@ -1,3 +1,7 @@
+/* Java. Classic Game Xonix
+ * @author Yulia Kuznetsova
+ * dated March 30, 2020
+ */
 import java.awt.*;
 
 public class Xonix {

@@ -1,3 +1,8 @@
+/* Java. Classic Game Xonix
+ * @author Yulia Kuznetsova
+ * dated March 30, 2020
+ */
+
 import javax.imageio.ImageIO;
 import javax.swing.*;
 import java.awt.*;

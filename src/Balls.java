@@ -2,12 +2,15 @@ import java.util.ArrayList;
 import java.awt.*;
 
 public class Balls {
+    //fields
     private ArrayList<Ball> balls = new ArrayList<Ball>();
 
+    //constructor
     Balls() {
         add();
     }
 
+    //methods
     void dropp(){
         balls.removeAll(balls);
         add();

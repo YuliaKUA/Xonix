@@ -1,15 +1,18 @@
 import java.awt.*;
 
 public class Field {
+    //fields
     private final int WATER_AREA = (Window.FIELD_WIDTH - 4) * (Window.FIELD_HEIGHT - 4);
     private int[][] field = new int[Window.FIELD_WIDTH][Window.FIELD_HEIGHT];
     private float currentWaterArea;
     private int countScore = 0;
 
+    //constructor
     Field() {
         init();
     }
 
+    //methods
     void dropp(){
         countScore = 0;
     }

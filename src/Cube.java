@@ -1,12 +1,15 @@
 import java.awt.*;
 
 public class Cube {
+    //fields
     private int x, y, dx, dy;
 
+    //constructor
     Cube() {
         init();
     }
 
+    //methods
     void init() { x = dx = dy = 1; }
 
     void updateDXandDY() {
